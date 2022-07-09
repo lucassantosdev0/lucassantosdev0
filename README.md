@@ -4,7 +4,7 @@
 - :telescope: Apaixonado por programação
 - :seedling: Estudante Desenvolvimento de Sistemas 1/3
 <div align="center">
-  <a href="https://github.com/lucasrealdev">
+  <a href="https://github.com/lucassantosdev0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassantosdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantosdev&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
