@@ -29,7 +29,7 @@
  </a> 
  <a href = "mailto:lucasclesqui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
- <a href = "https://www.linkedin.com/in/lucas-santos-29b461289/">target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-logo-black-and-white.png" target="_blank"></a>
+ <a href = "https://www.linkedin.com/in/lucas-santos-29b461289/" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-logo-black-and-white.png" target="_blank"></a>
 </div>
 <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
         
