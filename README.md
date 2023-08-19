@@ -27,5 +27,7 @@
  </a>
  <a href="https://discord.gg/iilucxz#6933" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
  </a> 
- <a href = "mailto:lucasclesqui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:lucasclesqui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ </a>
+ <a href = "https://www.linkedin.com/in/lucas-santos-29b461289/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDTxvS_ph9yYIgaGRG777WCRpjsTyFLxxnWA&usqp=CAU" target="_blank"></a>
 </div>
